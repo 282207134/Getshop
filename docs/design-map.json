@@ -1,0 +1,135 @@
+{
+  "document": "Getshop Ui Template",
+  "page": {
+    "id": "0:1",
+    "name": "Page 1"
+  },
+  "screens": [
+    {
+      "screen": "welcome",
+      "title": "欢迎页",
+      "pixsoId": "1:465",
+      "file": "01-welcome"
+    },
+    {
+      "screen": "onboardingDark",
+      "title": "夜间引导",
+      "pixsoId": "1:400",
+      "file": "02-onboarding-dark"
+    },
+    {
+      "screen": "onboardingProducts",
+      "title": "商品引导",
+      "pixsoId": "1:51",
+      "file": "03-onboarding-products"
+    },
+    {
+      "screen": "confirmation",
+      "title": "邮件确认",
+      "pixsoId": "1:270",
+      "file": "04-confirmation"
+    },
+    {
+      "screen": "login",
+      "title": "登录",
+      "pixsoId": "1:505",
+      "file": "05-login"
+    },
+    {
+      "screen": "signup",
+      "title": "注册",
+      "pixsoId": "1:565",
+      "file": "06-signup"
+    },
+    {
+      "screen": "menu",
+      "title": "侧边菜单",
+      "pixsoId": "1:338",
+      "file": "07-menu"
+    },
+    {
+      "screen": "home",
+      "title": "首页",
+      "pixsoId": "1:994",
+      "file": "08-home"
+    },
+    {
+      "screen": "explore",
+      "title": "分类探索",
+      "pixsoId": "1:625",
+      "file": "09-explore"
+    },
+    {
+      "screen": "shop",
+      "title": "商品分类",
+      "pixsoId": "1:922",
+      "file": "10-shop"
+    },
+    {
+      "screen": "sort",
+      "title": "排序",
+      "pixsoId": "1:2",
+      "file": "11-sort"
+    },
+    {
+      "screen": "filterPrice",
+      "title": "筛选（折叠）",
+      "pixsoId": "1:771",
+      "file": "12-filter-price"
+    },
+    {
+      "screen": "filter",
+      "title": "筛选（展开）",
+      "pixsoId": "1:823",
+      "file": "13-filter"
+    },
+    {
+      "screen": "favorites",
+      "title": "收藏",
+      "pixsoId": "1:1077",
+      "file": "14-favorites"
+    },
+    {
+      "screen": "product",
+      "title": "商品详情（浅色）",
+      "pixsoId": "1:84",
+      "file": "15-product"
+    },
+    {
+      "screen": "productRed",
+      "title": "商品详情（红色）",
+      "pixsoId": "1:144",
+      "file": "16-product-red"
+    },
+    {
+      "screen": "productGreen",
+      "title": "商品详情（绿色）",
+      "pixsoId": "1:213",
+      "file": "17-product-green"
+    },
+    {
+      "screen": "cart",
+      "title": "购物车",
+      "pixsoId": "1:1154",
+      "file": "18-cart"
+    },
+    {
+      "screen": "addCard",
+      "title": "添加卡片",
+      "pixsoId": "1:1204",
+      "file": "19-add-card"
+    },
+    {
+      "screen": "shopDetail",
+      "title": "商品展示",
+      "pixsoId": "1:17",
+      "file": "20-shop-detail"
+    },
+    {
+      "screen": "timeline",
+      "title": "订单进度",
+      "pixsoId": "1:715",
+      "file": "21-timeline"
+    }
+  ]
+}
